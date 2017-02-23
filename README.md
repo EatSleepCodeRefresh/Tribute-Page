@@ -1,5 +1,5 @@
-<--# Tribute-Page
-A tribute page for the President of Nintend--!>
+
+
 <div class="container">
   <div class="jumbotron">
     <div class="row">
