@@ -1,3 +1,23 @@
+body {
+margin-top: 60px;
+}
+.thin-red-border {
+border-color: red
+border-width: 6px;
+border-style: solid;
+}
+.silver-background {
+background-color: silver;
+}
+h5 {
+font-size: 15px;
+}
+ul {
+font-size: 16px;
+  font-family: Times New Roman;
+  }
+
+
 <div class = "container">
   <div class = "jumbotron">
     <div class = "row">
